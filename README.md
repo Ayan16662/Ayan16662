@@ -1,5 +1,5 @@
 #  About Me:
-Hi there , I'm Ayan Ahmed Siddique<br>Software Engineering Student | Frontend Developer | Problem Solver Bhopal, Madhya Pradesh, India <br><br> Pursuing Software Engineering from Bansal Group of Institutions<br> Passionate about Web Development & Problem Solving<br>Currently learning advanced React ecosystem and DSA<br> Love building clean UI and interactive web applications<br> Interested in Frontend Development & Open Source
+Hi there , I'm Ayan Ahmed Siddique<br>Software Engineering Student | Frontend Developer | Problem Solver|  Bhopal, Madhya Pradesh, India <br><br> Pursuing Software Engineering from Bansal Group of Institutions<br> Passionate about Web Development & Problem Solving<br>Currently learning advanced React ecosystem and DSA<br> Love building clean UI and interactive web applications<br> Interested in Frontend Development & Open Source
 
 
 ## 🌐 Socials:
